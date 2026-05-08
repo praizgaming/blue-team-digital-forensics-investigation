@@ -211,32 +211,42 @@ These findings support criminal prosecution and referral to relevant authorities
 
 ## Screenshots
 <img width="663" height="202" alt="Image" src="https://github.com/user-attachments/assets/3cb706bb-ac42-435b-bf59-8e987c9a09b8" />
-Fig1. Write Blocker Activated <br />
+Fig1. Write Blocker Activated
+<br>
 
 <img width="591" height="321" alt="Image" src="https://github.com/user-attachments/assets/ea31fb77-847b-48fa-a35a-80deb86e91b5" />
-Fig2. Phishing email template <br />
+Fig2. Phishing email template
+<br>
 
 <img width="615" height="347" alt="Image" src="https://github.com/user-attachments/assets/ade8a8cd-e79e-471c-84cf-aa0f0ba94352" />
-Fig3.HTML file of bank website <br />
+Fig3.HTML file of bank website
+<br>
  
 <img width="696" height="473" alt="Image" src="https://github.com/user-attachments/assets/aa219e4d-2bfd-4b41-87dc-3c113a93c4f4" />
-Fig4.PHP script used to harvest victim data <br />
- 
+Fig4.PHP script used to harvest victim data
+<br>
+
 <img width="645" height="387" alt="Image" src="https://github.com/user-attachments/assets/feab8c90-312c-4317-a171-157415aff074" />
-Fig5.Victim sensitive data <br />
+Fig5.Victim sensitive data 
+<br>
 
 <img width="390" height="440" alt="Image" src="https://github.com/user-attachments/assets/ef29a7f9-c821-48fb-9415-18792624cc77" />
-Fig6.Holiday Plans of suspect <br />
+Fig6.Holiday Plans of suspect
+<br>
 
 <img width="752" height="135" alt="Image" src="https://github.com/user-attachments/assets/caf86668-4e9b-435f-8f59-66aec4beb0ad" />
-Fig7.Web developer job application by suspect <br />
+Fig7.Web developer job application by suspect
+<br>
  
 <img width="692" height="532" alt="Image" src="https://github.com/user-attachments/assets/ad339fa0-7157-43fc-a986-46ea68e6abc6" />
-Fig8.MS Edge History found 
-Fig9.Browser History shows suspicious website visits <br />
+Fig8.MS Edge History found
+<br>
+Fig9.Browser History shows suspicious website visits 
+<br>
 
 <img width="656" height="235" alt="Image" src="https://github.com/user-attachments/assets/21c319ea-2e6b-4ed3-a43d-02d1bf8754aa" />
-Fig10.Phishing email template file recovered from recycle bin <br />
+Fig10.Phishing email template file recovered from recycle bin 
+<br>
  
 ## 📁 Project Structure
 
