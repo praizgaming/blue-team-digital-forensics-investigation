@@ -196,7 +196,7 @@ These findings support criminal prosecution and referral to relevant authorities
 
 ---
 
-## 🧠 Key Takeaways
+##  Key Takeaways
 
 - Gained practical experience performing a full digital forensics investigation from evidence intake to court-ready report
 - Understood the importance of chain of custody and forensically safe environments in ensuring evidence is admissible
@@ -208,20 +208,19 @@ These findings support criminal prosecution and referral to relevant authorities
 
 ---
 
+
+## Screenshots
+
+
+
 ## 📁 Project Structure
 
 ```
-digital-forensics-r-v-banks/
+blue-team-digital-forensics-investigation/
 │
 ├── README.md                    ← You are here
-├── report/
-│   └── forensic-report.md       ← Full investigation report
-├── chain-of-custody/
-│   └── chain-of-custody.md      ← Complete chain of custody log
-├── screenshots/
-│   └── *.png                    ← Appendix screenshots from investigation
-└── timeline/
-    └── timeline-of-events.md    ← Reconstructed event timeline
+├── chainofcustody
+
 ```
 
 ---
