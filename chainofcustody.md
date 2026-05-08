@@ -1,5 +1,3 @@
-## Appendix A
-
 ## Chain of Custody
 
 **Case Number:** CR2025-001
